@@ -1,0 +1,77 @@
+:root{
+    --background-1: #252525;
+    --background-2: #9A9A9A;
+    --button-1: #3B3B3B;
+    --button-2: #FF0000;
+    --input-1: #3B3B3B;
+    --card-1: #FD99FF;
+    --card-2: #FF9E9E;
+    --card-3: #91F48F;
+    --card-4: #FFF599;
+    --card-5: #9EFFFF;
+    --card-6: #B69CFF;
+    --color-1: #FFFFFF;
+    --color-2: #CFCFCF;
+    --color-3: #9A9A9A;
+    --color-4: #000000;
+}
+@font-face {
+    font-family: "Nunito-Black";
+    src: url(../storage/font/Nunito/Nunito-Black.ttf);
+}
+@font-face {
+    font-family: "Nunito-BlackItalic";
+    src: url(../storage/font/Nunito/Nunito-BlackItalic.ttf);
+}
+@font-face {
+    font-family: "Nunito-Bold";
+    src: url(../storage/font/Nunito/Nunito-Bold.ttf);
+}
+@font-face {
+    font-family: "Nunito-BoldItalic";
+    src: url(../storage/font/Nunito/Nunito-BoldItalic.ttf);
+}
+@font-face {
+    font-family: "Nunito-ExtraBold";
+    src: url(../storage/font/Nunito/Nunito-ExtraBold.ttf);
+}
+@font-face {
+    font-family: "Nunito-ExtraBoldItalic";
+    src: url(../storage/font/Nunito/Nunito-ExtraBoldItalic.ttf);
+}
+@font-face {
+    font-family: "Nunito-ExtraLight";
+    src: url(../storage/font/Nunito/Nunito-ExtraLight.ttf);
+}
+@font-face {
+    font-family: "Nunito-ExtraLightItalic";
+    src: url(../storage/font/Nunito/Nunito-ExtraLightItalic.ttf);
+}
+@font-face {
+    font-family: "Nunito-Italic";
+    src: url(../storage/font/Nunito/Nunito-Italic.ttf);
+}
+@font-face {
+    font-family: "Nunito-LightItalic";
+    src: url(../storage/font/Nunito/Nunito-LightItalic.ttf);
+}
+@font-face {
+    font-family: "Nunito-Medium";
+    src: url(../storage/font/Nunito/Nunito-Medium.ttf);
+}
+@font-face {
+    font-family: "Nunito-MediumItalic";
+    src: url(../storage/font/Nunito/Nunito-MediumItalic.ttf);
+}
+@font-face {
+    font-family: "Nunito-Regular";
+    src: url(../storage/font/Nunito/Nunito-Regular.ttf);
+}
+@font-face {
+    font-family: "Nunito-SemiBold";
+    src: url(../storage/font/Nunito/Nunito-SemiBold.ttf);
+}
+@font-face {
+    font-family: "Nunito-SemiBoldItalic";
+    src: url(../storage/font/Nunito/Nunito-SemiBoldItalic.ttf);
+}
